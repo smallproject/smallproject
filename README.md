@@ -5,6 +5,7 @@ Welcome to my professional portfolio! This repository showcases my technical and
 I'm a passionate Software Development student currently pursuing my Bachelor's degree in HBO-ICT. I specialize in full-stack development with a growing focus on modern web technologies and practical software architecture.
 
 I enjoy building meaningful digital solutions — from intuitive user interfaces to robust backend systems. Whether working on school projects, freelance work, or personal ventures like FutureSeed (a school management system), I’m always striving to learn, improve, and deliver clean, maintainable code.
+
 ---
 
 ## 🧠 Skills
