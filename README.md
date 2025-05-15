@@ -12,7 +12,7 @@ I enjoy building meaningful digital solutions — from intuitive user interfaces
 
 ### Programming Languages
 - JavaScript (ES6+), TypeScript
-- DotNet, Java
+- .NET, Java, ASP.NET Core MVC
 - HTML5, CSS3, SASS
 
 ### Frameworks & Libraries
@@ -20,10 +20,21 @@ I enjoy building meaningful digital solutions — from intuitive user interfaces
 - Node.js, Express.js, Entity Framework
 - Spring Boot, Hibernate
 
+### Cloud & DevOps
+- AWS (Lambda, DynamoDB, S3)
+- Github Actions
+- Docker
+
+### Testing
+- Postman
+- Cypress.io
+
 ### Tools & Platforms
 - Git & GitHub
-- Docker, Postman, Figma
+- Figma
 - Visual Studio Code, IntelliJ IDEA
+- Agile/Scrum
+- REST APIs
 
 ### Databases
 - MySQL, PostgreSQL, MongoDB, SQL Server
@@ -38,6 +49,8 @@ I enjoy building meaningful digital solutions — from intuitive user interfaces
 - Multilanguage implementation for web platforms
 - Clean project documentation
 - Expanding my portfolio with real-world applications
+- Working with AWS services and .NET web technologies
+- Strengthening cloud architecture and end-to-end testing skills
 
 ---
 
