@@ -46,7 +46,7 @@ I enjoy building meaningful digital solutions — from intuitive user interfaces
 - 🎓 **HBO Bachelor's in Software Development** — NOVI HogeSchool - Applied Science, 2028
 - 🎓 **Fullstack Software Development** — NOVI HogeSchool - Applied Science, 2025
 - 🚀 **Lead Developer** of _FutureSeed_, a school management system with multi-language support and scalable architecture
-- 🚀 **Junior Developer** of Domits, a school management system with multi-language support and scalable architecture
+- 🚀 **Junior Developer** of Domits, a booking accomodation management system with multi-language support and scalable architecture
 - 🧩 **Built full-stack project** with secure authentication, REST APIs, and role-based access
 - 🌐 **Created personal portfolio** using GitHub Pages and custom design
 
